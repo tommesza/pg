@@ -9,7 +9,7 @@ def je_prvocislo(n):
         if n % i == 0: # pokud n je delitelne i tak neni prvocislo
             return False
     return True
-
+#x
 
 def vrat_prvocisla(maximum):
     prvocisla = []
